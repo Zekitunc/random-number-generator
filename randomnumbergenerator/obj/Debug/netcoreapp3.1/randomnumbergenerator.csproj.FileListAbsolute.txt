@@ -1,0 +1,14 @@
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\bin\Debug\netcoreapp3.1\randomnumbergenerator.exe
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\bin\Debug\netcoreapp3.1\randomnumbergenerator.deps.json
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\bin\Debug\netcoreapp3.1\randomnumbergenerator.runtimeconfig.json
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\bin\Debug\netcoreapp3.1\randomnumbergenerator.runtimeconfig.dev.json
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\bin\Debug\netcoreapp3.1\randomnumbergenerator.dll
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\bin\Debug\netcoreapp3.1\randomnumbergenerator.pdb
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\obj\Debug\netcoreapp3.1\randomnumbergenerator.csproj.AssemblyReference.cache
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\obj\Debug\netcoreapp3.1\randomnumbergenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\obj\Debug\netcoreapp3.1\randomnumbergenerator.AssemblyInfoInputs.cache
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\obj\Debug\netcoreapp3.1\randomnumbergenerator.AssemblyInfo.cs
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\obj\Debug\netcoreapp3.1\randomnumbergenerator.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\obj\Debug\netcoreapp3.1\randomnumbergenerator.dll
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\obj\Debug\netcoreapp3.1\randomnumbergenerator.pdb
+C:\Users\Cansu\source\repos\randomnumbergenerator\randomnumbergenerator\obj\Debug\netcoreapp3.1\randomnumbergenerator.genruntimeconfig.cache
